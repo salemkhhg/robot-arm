@@ -1,3 +1,4 @@
+//link of simulation https://wokwi.com/projects/332305916046082643
 #include <Servo.h>
 #include <LiquidCrystal.h> 
 
